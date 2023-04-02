@@ -1,0 +1,7 @@
+.avatar {
+	border-radius: 15px;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+}
